@@ -1,5 +1,5 @@
 # excel_vba_password_generator
-A utility using rand() and rank() to generate passwords that comply with multiple rules.
+A utility using rnd() and rank() to generate passwords that comply with multiple rules.
 
 This password generator was written because a.) I wanted to solve some string manipulation problems and b.) I was bored.
 
